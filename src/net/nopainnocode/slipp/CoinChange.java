@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 /**
  * Created by no_pain_no_code on 2016. 4. 20..
+ * https://www.hackerrank.com/challenges/coin-change
  */
 public class CoinChange {
 
